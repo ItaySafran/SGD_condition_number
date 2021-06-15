@@ -1,6 +1,6 @@
 SGD_condition_number
 ====================
-Code used in the paper [Random Shuffling Beats SGD Only After Many Epochs on Ill-Conditioned Problems]().
+Code used in the paper [Random Shuffling Beats SGD Only After Many Epochs on Ill-Conditioned Problems](https://arxiv.org/abs/2106.06880).
 
 This repository contains the following two files:
 -----------------------------------------
